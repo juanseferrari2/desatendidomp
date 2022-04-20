@@ -1,0 +1,16 @@
+{ "total_amount": 2,
+"collector_id": 213181576, 
+"description": "Estadía camioneta", 
+"title": "3 horas",
+"items": [ {
+"total_amount": 2,
+"description": "Estadía camioneta - item", 
+"title": "3 horas - item",
+"unit_price": 2,
+"quantity": 1
+} ],
+"notification_url": "https://hookb.in/zrLZPgyg6KTol3MMmwzb", 
+ "external_reference": "ejemplo123",
+ "aditional_data": {
+"car_license_plate": "ABC123" }
+}
