@@ -1,0 +1,19 @@
+{
+	"total_amount": 0,
+"collector_id": 213181576,
+"description": "Nada para pagar",
+	"title": "Nada para pagar",
+	"items": [
+		{
+			"total_amount": 0,
+			"description": "Nada para pagar - item",
+			"title": "Nada para pagar - item",
+			"unit_price": 0,
+			"quantity": 1
+		}
+	],
+"notification_url": "https://hookb.in/zrLZPgyg6KTol3MMmwzb",
+	"aditional_data": {
+		"car_license_plate": "ABC123"
+	}
+}
